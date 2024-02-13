@@ -14,7 +14,7 @@
 .register{
     font-family:"Roboto" ;
     margin-bottom: 20%;
-    margin-left: 95px;
+    padding-left: 95px;
     margin-top: 10px;
     text-decoration: underline;
 }

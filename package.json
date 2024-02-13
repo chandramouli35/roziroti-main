@@ -1,0 +1,7 @@
+{
+    "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+}
+}
